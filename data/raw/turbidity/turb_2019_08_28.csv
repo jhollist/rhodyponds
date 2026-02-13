@@ -1,0 +1,22 @@
+,value,units,waterbody,site,depth,reps,variable,day,month,year
+SAMPLE-001,100.14,NTU,na,100 ntu,na,na,turb,28,8,2019
+SAMPLE-002,9.96,NTU,na,10 ntu,na,na,turb,28,8,2019
+SAMPLE-003,0.07,NTU,na,blank,na,na,turb,28,8,2019
+SAMPLE-004,13.6,NTU,mashapaug,1,int,1,turb,28,8,2019
+SAMPLE-005,14.44,NTU,mashapaug,1,int,2,turb,28,8,2019
+SAMPLE-006,13.65,NTU,mashapaug,2,int,1,turb,28,8,2019
+SAMPLE-007,13.79,NTU,mashapaug,2,int,2,turb,28,8,2019
+SAMPLE-008,13.31,NTU,mashapaug,3,int,1,turb,28,8,2019
+SAMPLE-010,13.87,NTU,mashapaug,3,int,2,turb,28,8,2019
+SAMPLE-011,11.38,NTU,mashapaug,4,int,1,turb,28,8,2019
+SAMPLE-012,13.69,NTU,mashapaug,4,int,2,turb,28,8,2019
+SAMPLE-013,8.54,NTU,mashapaug,5,int,1,turb,28,8,2019
+SAMPLE-014,11.66,NTU,mashapaug,5,int,2,turb,28,8,2019
+SAMPLE-015,13.19,NTU,mashapaug,6,int,1,turb,28,8,2019
+SAMPLE-016,13.18,NTU,mashapaug,6,int,2,turb,28,8,2019
+SAMPLE-017,12.44,NTU,mashapaug,p,int,1,turb,28,8,2019
+SAMPLE-018,12.51,NTU,mashapaug,p,int,2,turb,28,8,2019
+AMPLE-019,13.44,NTU,mashapaug,p,na,3,turb,28,8,2019
+SAMPLE-020,0.06,NTU,na,blank,na,na,turb,28,8,2019
+AMPLE-021,9.96,NTU,na,10 ntu,na,na,turb,28,8,2019
+SAMPLE-022,100.04,units,waterbody,100 ntu,na,na,turb,28,8,2019

@@ -1,0 +1,20 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year,filter_vol,fluorometer
+SAMPLE-001,10114.46,RFU,na,solid std,na,na,phyco_rfu,23,11,2021,na,G04
+SAMPLE-040,62.01,RFU,yawgoo,blank,int,1,blank,1,11,2021,na,G04
+SAMPLE-041,62.39,RFU,yawgoo,blank,int,2,blank,1,11,2021,na,G04
+SAMPLE-042,98.9,RFU,yawgoo,1,int,1,phyco_rfu,1,11,2021,250,G04
+SAMPLE-043,89.89,RFU,yawgoo,1,int,2,phyco_rfu,1,11,2021,250,G04
+SAMPLE-044,115.44,RFU,yawgoo,2,int,1,phyco_rfu,1,11,2021,250,G04
+SAMPLE-046,107.69,RFU,yawgoo,2,int,2,phyco_rfu,1,11,2021,250,G04
+SAMPLE-047,114.94,RFU,yawgoo,3,int,1,phyco_rfu,1,11,2021,250,G04
+SAMPLE-048,107.9,RFU,yawgoo,3,int,2,phyco_rfu,1,11,2021,250,G04
+SAMPLE-049,176.58,RFU,yawgoo,4,int,1,phyco_rfu,1,11,2021,250,G04
+SAMPLE-050,75.48,RFU,yawgoo,4,int,2,phyco_rfu,1,11,2021,250,G04
+SAMPLE-052,95.36,RFU,yawgoo,5,int,1,phyco_rfu,1,11,2021,250,G04
+SAMPLE-053,84.86,RFU,yawgoo,5,int,2,phyco_rfu,1,11,2021,250,G04
+SAMPLE-054,82.12,RFU,yawgoo,6,int,1,phyco_rfu,1,11,2021,250,G04
+SAMPLE-055,79.74,RFU,yawgoo,6,int,2,phyco_rfu,1,11,2021,250,G04
+SAMPLE-056,93.05,RFU,yawgoo,p,int,1,phyco_rfu,1,11,2021,250,G04
+SAMPLE-057,92.59,RFU,yawgoo,p,int,2,phyco_rfu,1,11,2021,250,G04
+SAMPLE-058,90.76,RFU,yawgoo,p,int,3,phyco_rfu,1,11,2021,250,G04
+SAMPLE-085,10050.81,RFU,na,solid std,na,na,phyco_rfu,23,11,2021,na,G04

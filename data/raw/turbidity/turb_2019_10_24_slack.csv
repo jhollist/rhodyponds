@@ -1,0 +1,22 @@
+,value,units,waterbody,site,depth,reps,variable,day,month,year
+SAMPLE-001,100.07,NTU,na,100 ntu,na,na,turb,25,10,2019
+SAMPLE-002,10.05,NTU,na,10 ntu,na,na,turb,25,10,2019
+AMPLE-003,-0.06,NTU,na,blank,na,na,turb,25,10,2019
+SAMPLE-004,1.71,NTU,slack,1,int,1,turb,24,10,2019
+SAMPLE-005,1.86,NTU,slack,1,int,2,turb,24,10,2019
+SAMPLE-006,1.99,NTU,slack,1,int,3,turb,24,10,2019
+SAMPLE-007,2.7,NTU,slack,2,int,1,turb,24,10,2019
+SAMPLE-008,2.53,NTU,slack,2,int,2,turb,24,10,2019
+SAMPLE-009,4.76,NTU,slack,2,int,3,turb,24,10,2019
+SAMPLE-010,1.87,NTU,slack,3,int,1,turb,24,10,2019
+SAMPLE-011,5.59,NTU,slack,3,int,2,turb,24,10,2019
+SAMPLE-012,1.5,NTU,slack,3,int,3,turb,24,10,2019
+SAMPLE-013,1.6,NTU,slack,4,int,1,turb,24,10,2019
+SAMPLE-014,1.4,NTU,slack,4,int,2,turb,24,10,2019
+SAMPLE-015,2.21,NTU,slack,4,int,3,turb,24,10,2019
+SAMPLE-016,1.31,NTU,slack,5,int,1,turb,24,10,2019
+SAMPLE-017,1.46,NTU,slack,5,int,2,turb,24,10,2019
+SAMPLE-018,2.62,NTU,slack,5,int,3,turb,24,10,2019
+SAMPLE-019,101.21,NTU,na,100 ntu,na,na,turb,25,10,2019
+SAMPLE-020,10.17,NTU,na,10 ntu,na,na,turb,25,10,2019
+SAMPLE-021,-0.03,NTU,na,blank,na,na,turb,25,10,2019

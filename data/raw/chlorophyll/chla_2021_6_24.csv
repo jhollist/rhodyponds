@@ -1,0 +1,77 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year,filter_vol,fluorometer,notes
+SAMPLE-001,236.04,RFU,na,old solid std,na,na,chla_rfu,9,9,2021,na,M07,
+SAMPLE-002,190.06,RFU,na,new solid std,na,na,chla_rfu,9,9,2021,na,M07,
+SAMPLE-003,0.46,RFU,mashapaug,blank,int,1,blank,24,6,2021,na,M07,
+SAMPLE-004,0.64,RFU,mashapaug,blank,int,2,blank,24,6,2021,na,M07,
+SAMPLE-005,1812.17,RFU,mashapaug,1,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-006,1829.73,RFU,mashapaug,1,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-007,2014.72,RFU,mashapaug,2,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-008,2022.23,RFU,mashapaug,2,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-009,2005.5,RFU,mashapaug,3,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-010,2048.09,RFU,mashapaug,3,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-011,1926.37,RFU,mashapaug,4,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-012,1914.86,RFU,mashapaug,4,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-013,2094.28,RFU,mashapaug,5,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-014,2075.57,RFU,mashapaug,5,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-015,1857.78,RFU,mashapaug,6,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-016,1821.24,RFU,mashapaug,6,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-017,1878.87,RFU,mashapaug,p,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-018,1961.54,RFU,mashapaug,p,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-019,1907.31,RFU,mashapaug,p,int,3,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-020,0.32,RFU,warwick,blank,int,1,blank,24,6,2021,na,M07,
+SAMPLE-021,0.31,RFU,warwick,blank,int,2,blank,24,6,2021,na,M07,
+SAMPLE-022,1688.19,RFU,warwick,1,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-023,1680.64,RFU,warwick,1,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-024,1802.2,RFU,warwick,2,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-025,1801.85,RFU,warwick,2,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-026,2105.27,RFU,warwick,3,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-027,2156.75,RFU,warwick,3,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-028,1715.64,RFU,warwick,4,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-029,1628.15,RFU,warwick,4,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-030,1562.02,RFU,warwick,5,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-031,1605.87,RFU,warwick,5,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-032,1493.18,RFU,warwick,6,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-033,1487.11,RFU,warwick,6,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-034,1699.97,RFU,warwick,p,int,1,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-035,1714.48,RFU,warwick,p,int,2,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-036,1725.62,RFU,warwick,p,int,3,chla_rfu,24,6,2021,200,M07,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-037,236.68,RFU,na,old solid std,na,na,chla_rfu,9,9,2021,na,M07,
+SAMPLE-038,203.94,RFU,na,new solid std,na,na,chla_rfu,9,9,2021,na,M07,
+SAMPLE-039,152.94,RFU,na,old solid std,na,na,chla_rfu,9,9,2021,na,G04,
+SAMPLE-040,131.64,RFU,na,new solid std,na,na,chla_rfu,9,9,2021,na,G04,
+SAMPLE-041,0.17,RFU,mashapaug,blank,int,1,blank,24,6,2021,na,G04,
+SAMPLE-042,0.21,RFU,mashapaug,blank,int,2,blank,24,6,2021,na,G04,
+SAMPLE-043,1191.59,RFU,mashapaug,1,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-044,1198.36,RFU,mashapaug,1,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-045,1317.4,RFU,mashapaug,2,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-046,1322.77,RFU,mashapaug,2,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-047,1303.43,RFU,mashapaug,3,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-048,1360.32,RFU,mashapaug,3,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-049,1261.53,RFU,mashapaug,4,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-050,1271.82,RFU,mashapaug,4,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-051,1373.45,RFU,mashapaug,5,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-052,1365.99,RFU,mashapaug,5,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-053,1234.62,RFU,mashapaug,6,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-054,1190.57,RFU,mashapaug,6,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-055,1248.53,RFU,mashapaug,p,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-056,1288.19,RFU,mashapaug,p,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-057,1260.48,RFU,mashapaug,p,int,3,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-058,0.11,RFU,warwick,blank,int,1,blank,24,6,2021,na,G04,
+SAMPLE-059,0.1,RFU,warwick,blank,int,2,blank,24,6,2021,na,G04,
+SAMPLE-060,1099.72,RFU,warwick,1,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-061,1110.4,RFU,warwick,1,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-062,1201.6,RFU,warwick,2,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-063,1179.39,RFU,warwick,2,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-064,1364.46,RFU,warwick,3,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-065,1403,RFU,warwick,3,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-066,1126.32,RFU,warwick,4,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-067,1061.95,RFU,warwick,4,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-068,1032.25,RFU,warwick,5,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-069,1050.71,RFU,warwick,5,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-070,993.09,RFU,warwick,6,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-071,983.47,RFU,warwick,6,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-072,1119.37,RFU,warwick,p,int,1,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-073,1138.65,RFU,warwick,p,int,2,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-074,1131.73,RFU,warwick,p,int,3,chla_rfu,24,6,2021,200,G04,filter volumes missing.  Used volumes from phycocyanin
+SAMPLE-075,153.6,RFU,na,old solid std,na,na,chla_rfu,9,9,2021,na,G04,
+SAMPLE-076,132.97,RFU,na,new solid std,na,na,chla_rfu,9,9,2021,na,G04,

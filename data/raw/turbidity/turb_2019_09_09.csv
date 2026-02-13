@@ -1,0 +1,22 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year
+SAMPLE-001,100,NTU,na,100 ntu,na,na,turb,9,9,2019
+SAMPLE-002,9.96,NTU,na,10 ntu,na,na,turb,9,9,2019
+SAMPLE-003,0,NTU,na,blank,na,na,turb,9,9,2019
+SAMPLE-004,1.32,NTU,yawgoo,1,int,1,turb,9,9,2019
+SAMPLE-005,1.37,NTU,yawgoo,1,int,2,turb,9,9,2019
+SAMPLE-006,1.71,NTU,yawgoo,2,int,1,turb,9,9,2019
+SAMPLE-007,0.7,NTU,yawgoo,2,int,2,turb,9,9,2019
+SAMPLE-008,1.82,NTU,yawgoo,3,int,1,turb,9,9,2019
+SAMPLE-009,1.41,NTU,yawgoo,3,int,2,turb,9,9,2019
+SAMPLE-010,1.33,NTU,yawgoo,4,int,1,turb,9,9,2019
+SAMPLE-011,1.53,NTU,yawgoo,4,int,2,turb,9,9,2019
+SAMPLE-012,8.43,NTU,yawgoo,5,int,1,turb,9,9,2019
+SAMPLE-013,5.7,NTU,yawgoo,5,int,2,turb,9,9,2019
+SAMPLE-014,1.68,NTU,yawgoo,6,int,1,turb,9,9,2019
+SAMPLE-015,1.27,NTU,yawgoo,6,int,2,turb,9,9,2019
+SAMPLE-016,2.04,NTU,yawgoo,p,int,1,turb,9,9,2019
+SAMPLE-017,1.55,NTU,yawgoo,p,int,2,turb,9,9,2019
+SAMPLE-018,2.52,NTU,yawgoo,p,int,3,turb,9,9,2019
+AMPLE-019,98.87,NTU,na,100 ntu,na,na,turb,9,9,2019
+SAMPLE-020,9.88,NTU,na,10 ntu,na,na,turb,9,9,2019
+SAMPLE-021,0,NTU,na,blank,na,na,turb,9,9,2019

@@ -1,0 +1,37 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year,filter_vol,fluorometer
+SAMPLE-001,132.2,RFU,na,solid std,na,na,chla_rfu,4,11,2021,na,G04
+SAMPLE-002,0.3,RFU,yawgoo,blank,int,1,blank,30,8,2021,na,G04
+SAMPLE-003,0.29,RFU,yawgoo,blank,int,2,blank,30,8,2021,na,G04
+SAMPLE-004,403.28,RFU,yawgoo,1,int,1,chla_rfu,30,8,2021,250,G04
+SAMPLE-005,393.89,RFU,yawgoo,1,int,2,chla_rfu,30,8,2021,250,G04
+SAMPLE-006,349,RFU,yawgoo,2,int,1,chla_rfu,30,8,2021,250,G04
+SAMPLE-007,402.2,RFU,yawgoo,2,int,2,chla_rfu,30,8,2021,250,G04
+SAMPLE-008,296.08,RFU,yawgoo,3,int,1,chla_rfu,30,8,2021,250,G04
+SAMPLE-009,289.21,RFU,yawgoo,3,int,2,chla_rfu,30,8,2021,250,G04
+SAMPLE-010,323.05,RFU,yawgoo,4,int,1,chla_rfu,30,8,2021,250,G04
+SAMPLE-011,339.81,RFU,yawgoo,4,int,2,chla_rfu,30,8,2021,250,G04
+SAMPLE-012,402.51,RFU,yawgoo,5,int,1,chla_rfu,30,8,2021,250,G04
+SAMPLE-013,458.76,RFU,yawgoo,5,int,2,chla_rfu,30,8,2021,250,G04
+SAMPLE-014,361.5,RFU,yawgoo,6,int,1,chla_rfu,30,8,2021,250,G04
+SAMPLE-015,342.92,RFU,yawgoo,6,int,2,chla_rfu,30,8,2021,250,G04
+SAMPLE-016,345.18,RFU,yawgoo,p,int,1,chla_rfu,30,8,2021,250,G04
+SAMPLE-017,374.42,RFU,yawgoo,p,int,2,chla_rfu,30,8,2021,250,G04
+SAMPLE-018,387.55,RFU,yawgoo,p,int,3,chla_rfu,30,8,2021,250,G04
+SAMPLE-019,0.15,RFU,yawgoo,blank,int,1,blank,20,9,2021,na,G04
+SAMPLE-020,0.03,RFU,yawgoo,blank,int,2,blank,20,9,2021,na,G04
+SAMPLE-021,426.33,RFU,yawgoo,1,int,1,chla_rfu,20,9,2021,250,G04
+SAMPLE-022,438.39,RFU,yawgoo,1,int,2,chla_rfu,20,9,2021,250,G04
+SAMPLE-023,428.75,RFU,yawgoo,2,int,1,chla_rfu,20,9,2021,250,G04
+SAMPLE-024,421.09,RFU,yawgoo,2,int,2,chla_rfu,20,9,2021,250,G04
+SAMPLE-025,517.06,RFU,yawgoo,3,int,1,chla_rfu,20,9,2021,250,G04
+SAMPLE-026,525.24,RFU,yawgoo,3,int,2,chla_rfu,20,9,2021,250,G04
+SAMPLE-027,393.72,RFU,yawgoo,4,int,1,chla_rfu,20,9,2021,250,G04
+SAMPLE-028,374.65,RFU,yawgoo,4,int,2,chla_rfu,20,9,2021,250,G04
+SAMPLE-029,415.5,RFU,yawgoo,5,int,1,chla_rfu,20,9,2021,250,G04
+SAMPLE-030,386.63,RFU,yawgoo,5,int,2,chla_rfu,20,9,2021,250,G04
+SAMPLE-031,404.48,RFU,yawgoo,6,int,1,chla_rfu,20,9,2021,250,G04
+SAMPLE-032,410.85,RFU,yawgoo,6,int,2,chla_rfu,20,9,2021,250,G04
+SAMPLE-033,437.93,RFU,yawgoo,p,int,1,chla_rfu,20,9,2021,250,G04
+SAMPLE-034,438.66,RFU,yawgoo,p,int,2,chla_rfu,20,9,2021,250,G04
+SAMPLE-035,511.78,RFU,yawgoo,p,int,3,chla_rfu,20,9,2021,250,G04
+SAMPLE-063,130.92,RFU,na,solid std,na,na,chla_rfu,4,11,2021,na,G04

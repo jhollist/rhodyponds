@@ -1,0 +1,11 @@
+variable_names,description
+waterbody,waterbody
+%do,%do
+do,do
+ph,ph
+salinity,salinity
+spc,spc
+temp,temp
+chla,chla
+year,year
+phyco,phyco

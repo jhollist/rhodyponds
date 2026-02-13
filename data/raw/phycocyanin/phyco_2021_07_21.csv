@@ -1,0 +1,77 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year,filter_vol,fluorometer
+SAMPLE-001,5995.7,RFU,na,old solid std,na,na,phyco_rfu,9,9,2021,na,M07
+SAMPLE-002,451.09,RFU,na,new solid std,na,na,phyco_rfu,9,9,2021,na,M07
+SAMPLE-003,365.52,RFU,mashapaug,blank,int,1,blank,21,7,2021,na,M07
+SAMPLE-004,349.44,RFU,mashapaug,blank,int,2,blank,21,7,2021,na,M07
+SAMPLE-005,661.4,RFU,mashapaug,1,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-006,619.69,RFU,mashapaug,1,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-007,485.93,RFU,mashapaug,2,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-008,526.98,RFU,mashapaug,2,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-009,466.44,RFU,mashapaug,3,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-010,492.65,RFU,mashapaug,3,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-011,573,RFU,mashapaug,4,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-012,597.74,RFU,mashapaug,4,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-013,637.4,RFU,mashapaug,5,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-014,611.92,RFU,mashapaug,5,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-015,514.86,RFU,mashapaug,6,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-016,548.46,RFU,mashapaug,6,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-017,559.41,RFU,mashapaug,p,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-018,582.57,RFU,mashapaug,p,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-019,576.54,RFU,mashapaug,p,int,3,phyco_rfu,21,7,2021,,M07
+SAMPLE-020,367.71,RFU,warwick,blank,int,1,blank,21,7,2021,na,M07
+SAMPLE-021,353.93,RFU,warwick,blank,int,2,blank,21,7,2021,na,M07
+SAMPLE-022,636.06,RFU,warwick,1,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-023,658.36,RFU,warwick,1,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-024,621.84,RFU,warwick,2,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-025,649.08,RFU,warwick,2,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-026,677.95,RFU,warwick,3,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-027,626.17,RFU,warwick,3,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-028,625.99,RFU,warwick,4,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-029,565.72,RFU,warwick,4,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-030,504.78,RFU,warwick,5,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-031,482.51,RFU,warwick,5,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-032,603.72,RFU,warwick,6,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-033,630.57,RFU,warwick,6,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-034,555.6,RFU,warwick,p,int,1,phyco_rfu,21,7,2021,,M07
+SAMPLE-035,558.79,RFU,warwick,p,int,2,phyco_rfu,21,7,2021,,M07
+SAMPLE-036,503.31,RFU,warwick,p,int,3,phyco_rfu,21,7,2021,,M07
+SAMPLE-037,5876.27,RFU,na,old solid std,na,na,phyco_rfu,9,9,2021,na,M07
+SAMPLE-038,463.51,RFU,na,new solid std,na,na,phyco_rfu,9,9,2021,na,M07
+SAMPLE-039,51544.73,RFU,na,old solid std,na,na,phyco_rfu,9,9,2021,na,G04
+SAMPLE-040,10016.99,RFU,na,new solid std,na,na,phyco_rfu,9,9,2021,na,G04
+SAMPLE-041,49.27,RFU,mashapaug,blank,int,1,blank,21,7,2021,na,G04
+SAMPLE-042,53.94,RFU,mashapaug,blank,int,2,blank,21,7,2021,na,G04
+SAMPLE-043,3209.53,RFU,mashapaug,1,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-044,2295.76,RFU,mashapaug,1,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-045,1245.36,RFU,mashapaug,2,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-046,1724.49,RFU,mashapaug,2,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-047,1118.63,RFU,mashapaug,3,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-048,1444.25,RFU,mashapaug,3,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-049,2070.64,RFU,mashapaug,4,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-050,2327.17,RFU,mashapaug,4,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-051,2726.57,RFU,mashapaug,5,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-052,2242.49,RFU,mashapaug,5,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-053,1800.34,RFU,mashapaug,6,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-054,1878.09,RFU,mashapaug,6,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-055,2130.58,RFU,mashapaug,p,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-056,2058.43,RFU,mashapaug,p,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-057,2036.41,RFU,mashapaug,p,int,3,phyco_rfu,21,7,2021,,G04
+SAMPLE-058,54.05,RFU,warwick,blank,int,1,blank,21,7,2021,na,G04
+SAMPLE-059,50.17,RFU,warwick,blank,int,2,blank,21,7,2021,na,G04
+SAMPLE-060,3260.56,RFU,warwick,1,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-061,2874.17,RFU,warwick,1,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-062,2690.92,RFU,warwick,2,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-063,2637.7,RFU,warwick,2,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-064,3169.9,RFU,warwick,3,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-065,2494.17,RFU,warwick,3,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-066,3286.79,RFU,warwick,4,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-067,1979.06,RFU,warwick,4,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-068,1511.37,RFU,warwick,5,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-069,902.72,RFU,warwick,5,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-070,2578.06,RFU,warwick,6,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-071,2668.42,RFU,warwick,6,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-072,1690.13,RFU,warwick,p,int,1,phyco_rfu,21,7,2021,,G04
+SAMPLE-073,1581.32,RFU,warwick,p,int,2,phyco_rfu,21,7,2021,,G04
+SAMPLE-074,1143.25,RFU,warwick,p,int,3,phyco_rfu,21,7,2021,,G04
+SAMPLE-075,51376.43,RFU,na,old solid std,na,na,phyco_rfu,9,9,2021,na,G04
+SAMPLE-076,9960.51,RFU,na,new solid std,na,na,phyco_rfu,9,9,2021,na,G04

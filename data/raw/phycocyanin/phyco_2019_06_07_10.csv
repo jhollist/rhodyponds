@@ -1,0 +1,37 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year,filter_vol
+SAMPLE-001,2041.08,RFU,na,solid std,na,na,phyco_rfu,29,8,2019,na
+SAMPLE-002,1.55,RFU,yawgoo,blank,int,1,blank,7,6,2019,na
+SAMPLE-003,1.39,RFU,yawgoo,blank,int,2,blank,7,6,2019,na
+SAMPLE-004,3.58,RFU,yawgoo,1,int,1,phyco_rfu,7,6,2019,400
+SAMPLE-005,3.82,RFU,yawgoo,1,int,2,phyco_rfu,7,6,2019,400
+SAMPLE-006,5.69,RFU,yawgoo,2,int,1,phyco_rfu,7,6,2019,400
+SAMPLE-007,5.79,RFU,yawgoo,2,int,2,phyco_rfu,7,6,2019,400
+SAMPLE-008,5.54,RFU,yawgoo,3,int,1,phyco_rfu,7,6,2019,400
+SAMPLE-009,4.64,RFU,yawgoo,3,int,2,phyco_rfu,7,6,2019,400
+SAMPLE-010,3.92,RFU,yawgoo,4,int,1,phyco_rfu,7,6,2019,400
+SAMPLE-011,3.66,RFU,yawgoo,4,int,2,phyco_rfu,7,6,2019,400
+SAMPLE-012,3.44,RFU,yawgoo,5,int,1,phyco_rfu,7,6,2019,400
+SAMPLE-013,4.09,RFU,yawgoo,5,int,2,phyco_rfu,7,6,2019,400
+SAMPLE-014,3.54,RFU,yawgoo,6,int,1,phyco_rfu,7,6,2019,400
+SAMPLE-015,3.4,RFU,yawgoo,6,int,2,phyco_rfu,7,6,2019,400
+SAMPLE-016,2.7,RFU,yawgoo,p,int,1,phyco_rfu,7,6,2019,400
+SAMPLE-017,2.37,RFU,yawgoo,p,int,2,phyco_rfu,7,6,2019,400
+SAMPLE-018,2.29,RFU,yawgoo,p,int,3,phyco_rfu,7,6,2019,400
+SAMPLE-019,1.4,RFU,yawgoo,blank,int,1,blank,10,6,2019,na
+SAMPLE-020,1.48,RFU,yawgoo,blank,int,2,blank,10,6,2019,na
+SAMPLE-021,2.99,RFU,yawgoo,1,int,1,phyco_rfu,10,6,2019,400
+SAMPLE-022,2.42,RFU,yawgoo,1,int,2,phyco_rfu,10,6,2019,400
+SAMPLE-023,2.41,RFU,yawgoo,2,int,1,phyco_rfu,10,6,2019,400
+SAMPLE-024,2.31,RFU,yawgoo,2,int,2,phyco_rfu,10,6,2019,400
+SAMPLE-025,2.5,RFU,yawgoo,3,int,1,phyco_rfu,10,6,2019,400
+SAMPLE-026,3.24,RFU,yawgoo,3,int,2,phyco_rfu,10,6,2019,400
+SAMPLE-027,2.62,RFU,yawgoo,4,int,1,phyco_rfu,10,6,2019,400
+SAMPLE-028,2.51,RFU,yawgoo,4,int,2,phyco_rfu,10,6,2019,400
+SAMPLE-029,2.26,RFU,yawgoo,5,int,1,phyco_rfu,10,6,2019,400
+AMPLE-030,2.35,RFU,yawgoo,5,int,2,phyco_rfu,10,6,2019,400
+SAMPLE-031,2.73,RFU,yawgoo,6,int,1,phyco_rfu,10,6,2019,400
+SAMPLE-032,2.3,RFU,yawgoo,6,int,2,phyco_rfu,10,6,2019,400
+SAMPLE-033,2.34,RFU,yawgoo,p,int,1,phyco_rfu,10,6,2019,400
+SAMPLE-034,2.74,RFU,yawgoo,p,int,2,phyco_rfu,10,6,2019,400
+SAMPLE-035,2.24,RFU,yawgoo,p,int,3,phyco_rfu,10,6,2019,400
+SAMPLE-036,2010.55,RFU,na,solid std,na,na,phyco_rfu,29,8,2019,na

@@ -1,0 +1,16 @@
+,value,units,waterbody,site,depth,reps,variable,day,month,year
+SAMPLE-007,2.1,NTU,yawgoo,1,int,1,turb,7,6,2019
+SAMPLE-008,3.52,NTU,yawgoo,1,int,2,turb,7,6,2019
+SAMPLE-009,0.52,NTU,yawgoo,2,int,1,turb,7,6,2019
+SAMPLE-010,1.12,NTU,yawgoo,2,int,2,turb,7,6,2019
+SAMPLE-011,1.01,NTU,yawgoo,3,int,1,turb,7,6,2019
+SAMPLE-012,2.04,NTU,yawgoo,3,int,2,turb,7,6,2019
+SAMPLE-013,0.42,NTU,yawgoo,4,int,1,turb,7,6,2019
+SAMPLE-014,0.23,NTU,yawgoo,4,int,2,turb,7,6,2019
+SAMPLE-015,1.02,NTU,yawgoo,5,int,1,turb,7,6,2019
+SAMPLE-016,1.02,NTU,yawgoo,5,int,2,turb,7,6,2019
+SAMPLE-017,1.04,NTU,yawgoo,6,int,1,turb,7,6,2019
+SAMPLE-018,0.32,NTU,yawgoo,6,int,2,turb,7,6,2019
+SAMPLE-019,0.92,NTU,yawgoo,p,int,1,turb,7,6,2019
+SAMPLE-020,0.68,NTU,yawgoo,p,int,2,turb,7,6,2019
+SAMPLE-021,0.5,NTU,yawgoo,p,int,3,turb,7,6,2019

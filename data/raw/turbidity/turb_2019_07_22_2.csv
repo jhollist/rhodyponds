@@ -1,0 +1,37 @@
+,value,units,waterbody,site,depth,reps,variable,day,month,year
+SAMPLE-002,-0.05,NTU,na,blank,na,na,turb,22,7,2019
+SAMPLE-003,9.98,NTU,na,10 ntu,na,na,turb,22,7,2019
+SAMPLE-004,99.93,NTU,na,100 ntu,na,na,turb,22,7,2019
+SAMPLE-005,6.64,NTU,mashapaug,1,int,1,turb,22,7,2019
+SAMPLE-006,6.02,NTU,mashapaug,1,int,2,turb,22,7,2019
+AMPLE-007,8.16,NTU,mashapaug,2,int,1,turb,22,7,2019
+SAMPLE-008,6.05,NTU,mashapaug,2,int,2,turb,22,7,2019
+SAMPLE-009,7.79,NTU,mashapaug,3,int,1,turb,22,7,2019
+SAMPLE-011,6.21,NTU,mashapaug,3,int,2,turb,22,7,2019
+AMPLE-013,4.67,NTU,mashapaug,4,int,1,turb,22,7,2019
+SAMPLE-014,3.92,NTU,mashapaug,4,int,2,turb,22,7,2019
+SAMPLE-015,6.96,NTU,mashapaug,5,int,1,turb,22,7,2019
+SAMPLE-016,7.41,NTU,mashapaug,5,int,2,turb,22,7,2019
+SAMPLE-018,8.17,NTU,mashapaug,6,int,1,turb,22,7,2019
+SAMPLE-019,6.75,NTU,mashapaug,6,int,2,turb,22,7,2019
+SAMPLE-020,5.01,NTU,mashapaug,p,int,1,turb,22,7,2019
+SAMPLE-021,4.09,NTU,mashapaug,p,int,2,turb,22,7,2019
+SAMPLE-022,6.24,NTU,mashapaug,p,int,3,turb,22,7,2019
+SAMPLE-023,3.06,NTU,warwick,1,int,1,turb,22,7,2019
+SAMPLE-024,3.1,NTU,warwick,1,int,2,turb,22,7,2019
+AMPLE-025,3.71,NTU,warwick,2,int,1,turb,22,7,2019
+SAMPLE-026,3.17,NTU,warwick,2,int,2,turb,22,7,2019
+SAMPLE-027,2.74,NTU,warwick,3,int,1,turb,22,7,2019
+SAMPLE-028,3.2,NTU,warwick,3,int,2,turb,22,7,2019
+SAMPLE-029,3.28,NTU,warwick,4,int,1,turb,22,7,2019
+AMPLE-030,2.59,NTU,warwick,4,int,2,turb,22,7,2019
+SAMPLE-031,3.29,NTU,warwick,5,int,1,turb,22,7,2019
+SAMPLE-032,2.75,NTU,warwick,5,int,2,turb,22,7,2019
+SAMPLE-033,3.31,NTU,warwick,6,int,1,turb,22,7,2019
+SAMPLE-034,3.2,NTU,warwick,6,int,2,turb,22,7,2019
+SAMPLE-035,2.56,NTU,warwick,p,int,1,turb,22,7,2019
+SAMPLE-036,2.38,NTU,warwick,p,int,2,turb,22,7,2019
+SAMPLE-037,2.68,NTU,warwick,p,int,3,turb,22,7,2019
+SAMPLE-039,-0.04,NTU,na,blank,na,na,turb,22,7,2019
+SAMPLE-040,9.94,NTU,na,10 ntu,na,na,turb,22,7,2019
+SAMPLE-041,99.58,NTU,na,100 ntu,na,na,turb,22,7,2019

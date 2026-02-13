@@ -1,0 +1,37 @@
+﻿,value,units,waterbody,site,depth,reps,variable,day,month,year,filter_vol
+SAMPLE-002,5882.34,RFU,na,solid std,na,na,phyco_rfu,21,8,2019,na
+AMPLE-003,311.19,RFU,mashapaug,blank,int,1,blank,5,6,2019,na
+SAMPLE-004,311.1,RFU,mashapaug,blank,int,2,blank,5,6,2019,na
+SAMPLE-005,312.04,RFU,mashapaug,1,int,1,phyco_rfu,5,6,2019,250
+AMPLE-006,313.67,RFU,mashapaug,1,int,2,phyco_rfu,5,6,2019,250
+SAMPLE-007,314.52,RFU,mashapaug,2,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-008,311.96,RFU,mashapaug,2,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-010,311.1,RFU,mashapaug,3,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-011,314.48,RFU,mashapaug,3,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-012,317.16,RFU,mashapaug,4,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-013,312.97,RFU,mashapaug,4,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-014,305.56,RFU,mashapaug,5,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-015,315.45,RFU,mashapaug,5,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-016,315.53,RFU,mashapaug,6,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-017,301.87,RFU,mashapaug,6,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-018,298.41,RFU,mashapaug,p,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-019,301.57,RFU,mashapaug,p,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-020,301.66,RFU,mashapaug,p,int,3,phyco_rfu,5,6,2019,100
+SAMPLE-021,298.8,RFU,warwick,blank,int,1,blank,5,6,2019,na
+SAMPLE-022,294.71,RFU,warwick,blank,int,2,blank,5,6,2019,na
+SAMPLE-023,303.12,RFU,warwick,1,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-024,300.5,RFU,warwick,1,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-025,302.06,RFU,warwick,2,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-026,300.2,RFU,warwick,2,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-027,303.21,RFU,warwick,3,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-028,302.36,RFU,warwick,3,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-029,301.82,RFU,warwick,4,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-030,302.79,RFU,warwick,4,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-031,304.61,RFU,warwick,5,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-032,300.41,RFU,warwick,5,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-033,298.39,RFU,warwick,6,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-034,297.32,RFU,warwick,6,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-035,298.13,RFU,warwick,p,int,1,phyco_rfu,5,6,2019,100
+SAMPLE-036,299.85,RFU,warwick,p,int,2,phyco_rfu,5,6,2019,100
+SAMPLE-037,296.61,RFU,warwick,p,int,3,phyco_rfu,5,6,2019,100
+SAMPLE-038,5782.26,RFU,na,solid std,na,na,phyco_rfu,21,8,2019,na
