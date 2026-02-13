@@ -67,7 +67,11 @@ data_list <- lapply(files, function(file) {
     wb <- unique(data$waterbody)
     years <- unique(data$year)
     if(any(years < 2020 & grepl("mashapaug|warwick|yawgoo", tolower(wb)))){
-      file.copy(file, "data/raw/microcystin/", overwrite = TRUE)
+      if(grepl("phyco", file)){
+        file.copy(file, "data/raw/phycocyanin", overwrite = TRUE)
+      } else if(grepl("chl", file)){
+        file.copy(file, "data/raw/chlorophyll", overwrite = TRUE)
+      }
     }
   }
 })
